@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Linh 👋
+
+### I'm a Data Science Student, Art Lover, and Nature Photography Enthusiast!
+
+- 🧑🏻‍💻 I’m currently a sophomore and DS major at Mount Holyoke College
+- 👯 I love learning languages (English, Vietnamese, German, Korean)
+- 📫 Reach me at my email linhphamzthuy@gmail.com
 
 <!--
 **linhphamt/linhphamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
